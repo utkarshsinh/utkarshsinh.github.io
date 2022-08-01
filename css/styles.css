@@ -11516,3 +11516,11 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.inner-img {
+  transition: 0.3s;
+}
+
+.inner-img:hover {
+  transform: scale(0.9);
+}
