@@ -11435,8 +11435,12 @@ html {
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
+  font-size: 2.75rem;
+  line-height: 2.75rem;
+}
+.typing-demo {
   width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(22), step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -11444,7 +11448,8 @@ html {
   from {
     width: 0
   }
-}   
+}
+    
 .masthead .masthead-subheading {
   font-size: 1.25rem;
 }
