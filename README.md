@@ -2,6 +2,5 @@
 
 https://utkarshsinh.netlify.app/
 
-<img width="1280" alt="Screenshot 2022-06-19 at 12 30 50 AM" src="https://user-images.githubusercontent.com/107430204/174466305-5ad9cc7a-4d13-4ea5-a740-1c971c50ca1a.png">
-
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/107430204/182599290-c92d7bf6-c654-4eb6-bf9a-9e250eb32466.png">
 https://utkarshsinh.github.io/ (Form is inactive)
